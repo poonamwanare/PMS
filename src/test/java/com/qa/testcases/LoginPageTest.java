@@ -52,6 +52,15 @@ public class LoginPageTest extends TestBase
 		System.out.println("User is unable to login due to blank credentials");
 	}
 	
+	@Test(priority =3)
+	public void forgetPasswordTest()
+	{
+		loginpage.clickOnForgetPassLink();
+		loginpage.checkNewPageOpenForRecovery();
+		loginpage.enterCredentialsForPassRecovery();
+		loginpage.emailSentForPassRecovery();
+	}
+	
 	@AfterMethod
 	public void tearDown()
 	{
