@@ -1,7 +1,6 @@
 package com.qa.pages;
 
 import java.io.FileNotFoundException;
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

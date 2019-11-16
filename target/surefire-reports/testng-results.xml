@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.testcases.LoginPageTest" duration-ms="61021" started-at="2019-11-16T12:21:43Z" finished-at="2019-11-16T12:22:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="61021" started-at="2019-11-16T12:21:43Z" finished-at="2019-11-16T12:22:44Z">
+      <class name="com.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="setUp" is-config="true" duration-ms="30356" started-at="2019-11-16T12:21:43Z" finished-at="2019-11-16T12:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginpageCredentialsTest()[pri:1, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="loginpageCredentialsTest" duration-ms="4240" started-at="2019-11-16T12:22:13Z" finished-at="2019-11-16T12:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageCredentialsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="tearDown" is-config="true" duration-ms="1050" started-at="2019-11-16T12:22:18Z" finished-at="2019-11-16T12:22:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="setUp" is-config="true" duration-ms="11161" started-at="2019-11-16T12:22:19Z" finished-at="2019-11-16T12:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="blankCredentialsTest()[pri:2, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="blankCredentialsTest" duration-ms="383" started-at="2019-11-16T12:22:30Z" finished-at="2019-11-16T12:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankCredentialsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="tearDown" is-config="true" duration-ms="716" started-at="2019-11-16T12:22:30Z" finished-at="2019-11-16T12:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="setUp" is-config="true" duration-ms="9684" started-at="2019-11-16T12:22:31Z" finished-at="2019-11-16T12:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgetPasswordTest()[pri:3, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="forgetPasswordTest" duration-ms="2279" started-at="2019-11-16T12:22:41Z" finished-at="2019-11-16T12:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@735f7ae5]" name="tearDown" is-config="true" duration-ms="1009" started-at="2019-11-16T12:22:43Z" finished-at="2019-11-16T12:22:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.testcases.LoginPageTest -->
+</testng-results>
